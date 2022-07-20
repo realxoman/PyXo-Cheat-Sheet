@@ -1,2 +1,2 @@
 # PyXo-Cheat-Sheet
-This is my personal Python Cheat sheet. 
+This is a personal Python Cheat sheet. 
