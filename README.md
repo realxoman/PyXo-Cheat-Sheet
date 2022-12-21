@@ -1,7 +1,7 @@
 # PyXo-Cheat-Sheet
 This is a personal Python Cheat sheet. 
 
-Variables:
+## Variables:
 
 Integer => myvar: int  = 1999
 
