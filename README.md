@@ -1,5 +1,5 @@
 # PyXo-Cheat-Sheet
-This is a personal Python Cheat sheet. 
+This is a Python Cheat sheet. 
 
 ## Variables:
 
